@@ -1,12 +1,16 @@
 ### 1. GoGo
-<div style="text-align: right">
+<div style="text-align: justify">
 GoGo is a website that connects individuals who want to explore events and experiences together while providing a platform for businesses to expand their reach.
-
+  <br/>
 GoGo was built because many individuals encounter the same problem - the desire to attend certain events but lacking companionship for the experience. These individuals represent a consumer segment that businesses often miss out on capturing. GoGo resolves this issue by allowing one individual to reach out to others in order to invite them to a specific event created by a business.
-  
-_Since the project is undergoing development and is also part of our project idea for an ongoing course at the University of Toronto, the Github repository is private. But I am happy to show the code in an interview if required. Nevertheless, a figma mockup of the initial project interface is given below._
+  <br/>
+  <i>
+  Since the project is undergoing development and is also part of our project idea for an ongoing course at the University of Toronto, the Github repository is private. But I am happy to show the code in an interview if required. Nevertheless, a figma mockup of the initial project interface is given below.
+  <i>
 </div>
-<iframe style="border: 3px solid rgba(0, 0, 0, 0.1);" width="800" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FphjEUkJow2olEZBOrIVRqh%2FGoGo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DaMwnDIiOXviLUBaK-1" allowfullscreen></iframe>
+<br/>    
+<iframe style="border: 3px solid rgba(0, 0, 0, 0.1);" width="800" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FphjEUkJow2olEZBOrIVRqh%2FGoGo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DaMwnDIiOXviLUBaK-1" allowfullscreen>
+</iframe>
 
 ### A little intro
 - Application allows students at the Engineering Faculty of the University of Alberta to Visualize their Timetables for the Semester
