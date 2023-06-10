@@ -1,6 +1,6 @@
 
 https://www.figma.com/proto/phjEUkJow2olEZBOrIVRqh/GoGo?type=design&node-id=1-2&scaling=min-zoom&page-id=0%3A1
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FphjEUkJow2olEZBOrIVRqh%2FGoGo%3Ftype%3Ddesign%26node-id%3D1-2%26scaling%3Dmin-zoom%26page-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FphjEUkJow2olEZBOrIVRqh%2FGoGo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DaMwnDIiOXviLUBaK-1" allowfullscreen></iframe>
 
 ### A little intro
 - Application allows students at the Engineering Faculty of the University of Alberta to Visualize their Timetables for the Semester
