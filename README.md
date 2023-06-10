@@ -12,7 +12,7 @@ GoGo was built because many individuals encounter the same problem - the desire 
 <iframe style="border: 3px solid rgba(0, 0, 0, 0.1);" width="800" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FphjEUkJow2olEZBOrIVRqh%2FGoGo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DaMwnDIiOXviLUBaK-1" allowfullscreen>
 </iframe>
 <p></p>
-
+_____
 ### 2. ENGG Timetable
 <div style="text-align: justify">
 This web application allows students at the Engineering Faculty of the University of Alberta to construct and visualize their course Timetables. The website makes this process interactive through making use of features such as Drag and Drop, Tooltips, Drodown Menus, etc.
@@ -20,15 +20,13 @@ This web application allows students at the Engineering Faculty of the Universit
   <i>
     Currently, the project is still undergoing development and some of the information is the intellectual property of the University. However, a working copy of the project has been completed and  I am happy to show the code in an interview if required. A video demo of the working site is included below.
   </i>
-  <br>
+</div>
+<p></p>
 #### ENGG_Timetable Demo
 <video src="https://github.com/Farhan-Faisal/ENGG_Timetable_Demo/assets/77621905/cecbcfc9-8b7d-49f6-ad74-9c6a50358ce6" controls="controls" style="max-width: 730px;">
 </video>
-
-https://github.com/Farhan-Faisal/ENGG_Timetable_Demo/assets/77621905/cecbcfc9-8b7d-49f6-ad74-9c6a50358ce6
-</div>
 _____
-
+<p></p>
 ### Authors:
   - Dominik Luszczynski
   - Farhan Bin Faisal
@@ -114,3 +112,4 @@ ___________
   - Enable task approval by presidents once an executive uploads task completion proof
   - Fix some navigation bugs
 ____________
+https://github.com/Farhan-Faisal/ENGG_Timetable_Demo/assets/77621905/cecbcfc9-8b7d-49f6-ad74-9c6a50358ce6
