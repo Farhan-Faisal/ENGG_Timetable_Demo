@@ -76,6 +76,8 @@ ______
 Application allows one to track the day to day activities of the Student Organization
 ___________
 ### App Demo:
+<video src="https://github.com/Farhan-Faisal/MEDLIFE_APP/assets/77621905/26c32662-cdc4-4ba9-a71e-bb1ff9e4e386" controls="controls" style="max-width: 730px;">
+</video>
 https://github.com/Farhan-Faisal/MEDLIFE_APP/assets/77621905/26c32662-cdc4-4ba9-a71e-bb1ff9e4e386
 
 _____
