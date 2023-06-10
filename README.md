@@ -8,6 +8,9 @@ https://www.figma.com/proto/phjEUkJow2olEZBOrIVRqh/GoGo?type=design&node-id=1-2&
 - Program is not currently connected to backend as that information is property of the university of alberta. As such, the project in this repository might appear slightly different than that shown in the video.
 _____
 ### ENGG_Timetable Demo
+<video src="https://github.com/Farhan-Faisal/ENGG_Timetable_Demo/assets/77621905/cecbcfc9-8b7d-49f6-ad74-9c6a50358ce6" controls="controls" style="max-width: 730px;">
+</video>
+
 https://github.com/Farhan-Faisal/ENGG_Timetable_Demo/assets/77621905/cecbcfc9-8b7d-49f6-ad74-9c6a50358ce6
 
 ### A little intro
