@@ -32,6 +32,8 @@ ______
   - App for scheduling and joining events at venues listed on the app
 ______
 ### App Demo
+<video src="https://github.com/Farhan-Faisal/Event_Manager/assets/77621905/9fdb5b9d-ba91-487f-91cf-fb81b5c44777" controls="controls" style="max-width: 730px;">
+</video>
 https://github.com/Farhan-Faisal/Event_Manager/assets/77621905/9fdb5b9d-ba91-487f-91cf-fb81b5c44777
 ______
 ### Application Usage
