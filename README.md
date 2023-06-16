@@ -12,10 +12,6 @@ GoGo was built because many individuals encounter the same problem - the desire 
 <iframe style="border: 3px solid rgba(0, 0, 0, 0.1);" width="800" height="500" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FphjEUkJow2olEZBOrIVRqh%2FGoGo%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DaMwnDIiOXviLUBaK-1" allowfullscreen>
 </iframe>
 <p></p>
-
-https://github.com/Farhan-Faisal/Projects/assets/77621905/71ebe4b9-3438-4fe1-8d80-f22db886eb11
-
-
 _____
 ### 2. ENGG Timetable
 <div style="text-align: justify">
