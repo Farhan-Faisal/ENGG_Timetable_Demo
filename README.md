@@ -1,4 +1,12 @@
-![simple-navigation-tool](https://github.com/user-attachments/assets/dbdc32c4-8042-4fde-bd9f-45832feba7fc)![MEDLIFE](https://github.com/user-attachments/assets/61293bed-150a-4d3a-aee8-f64ade5bfc24)![event_manager](https://github.com/user-attachments/assets/60a9be1d-4e2d-438c-88d9-e86cca50331b)![gogo](https://github.com/user-attachments/assets/7c5c4460-ef01-4cac-a128-663bacad4df7)### 1. GoGo
+![simple-navigation-tool](https://github.com/user-attachments/assets/dbdc32c4-8042-4fde-bd9f-45832feba7fc)
+![MEDLIFE](https://github.com/user-attachments/assets/61293bed-150a-4d3a-aee8-f64ade5bfc24)
+
+![event_manager](https://github.com/user-attachments/assets/60a9be1d-4e2d-438c-88d9-e86cca50331b)
+
+![gogo](https://github.com/user-attachments/assets/7c5c4460-ef01-4cac-a128-663bacad4df7)
+
+
+### 1. GoGo
 <div style="text-align: justify">
 GoGo is a website that connects individuals who want to explore events and experiences together while providing a platform for businesses to expand their reach.
   <p></p>
