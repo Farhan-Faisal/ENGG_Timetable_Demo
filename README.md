@@ -1,3 +1,6 @@
+[my_inventory]("https://github.com/user-attachments/assets/795760e9-26af-40c3-b53a-559c7036d34a")
+
+
 ### 1. GoGo
 <div style="text-align: justify">
 GoGo is a website that connects individuals who want to explore events and experiences together while providing a platform for businesses to expand their reach.
