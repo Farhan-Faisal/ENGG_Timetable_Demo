@@ -1,4 +1,4 @@
-[my_inventory]("https://github.com/user-attachments/assets/795760e9-26af-40c3-b53a-559c7036d34a")
+[my_inventory]!("https://github.com/user-attachments/assets/795760e9-26af-40c3-b53a-559c7036d34a")
 
 
 ### 1. GoGo
